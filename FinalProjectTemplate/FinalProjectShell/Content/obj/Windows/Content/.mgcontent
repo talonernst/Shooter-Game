@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/../../../images/Bullet.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/../../../images/spaceBackground.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/explosionPicture.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/explosionPicture1.jpg</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/explosionPicture2.jpg</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/explosionSound.wav</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/extraLevelSound.wav</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/extraLife.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/extraLifeSound.wav</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/font.spritefont</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/gameMusic.ogg</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/HelpPage.jpg</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/Images/Bat.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/Images/helpImage.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/mainMenuMusic.mp3</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/Meteor1.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/Meteor2.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/Meteor3.png</File>
+    <File>C:/Users/Talon Ernst/Desktop/TErnstFinalProject/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/ship.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Bullet.png</File>
+    <File>spaceBackground.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

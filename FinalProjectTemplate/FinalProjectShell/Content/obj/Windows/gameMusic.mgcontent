@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/Game Final Assignment/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/gameMusic.ogg</SourceFile>
+  <SourceTime>2019-11-25T18:57:36-05:00</SourceTime>
+  <DestFile>F:/Game Final Assignment/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/bin/Windows/gameMusic.xnb</DestFile>
+  <DestTime>2019-12-04T21:17:06-05:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>F:/Game Final Assignment/FinalProject/FinalProjectTemplate/FinalProjectShell/Content/bin/Windows/gameMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

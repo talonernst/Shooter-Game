@@ -1,0 +1,661 @@
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Talon\Desktop\FinalProjectTemplate\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+D:\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+F:\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+D:\PROG2370(Game Programming with Data Structures)\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+C:\Users\Talon Ernst\Desktop\FinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+D:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+F:\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\REALFinalProject - Copy\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLife.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLifeSound.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLife.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLifeSound.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+F:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLife.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLifeSound.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+D:\PROG2370(Game Programming with Data Structures)\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLife.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLifeSound.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture1.xnb
+C:\Users\Talon\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture2.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture1.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture2.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLife.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLifeSound.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+F:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\HelpPage.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture1.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture2.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLife.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLifeSound.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\HelpPage.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+D:\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture1.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture2.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\HelpPage.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture1.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionPicture2.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\explosionSound.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLevelSound.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLife.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\extraLifeSound.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.wma
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\gameMusic.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\HelpPage.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.wma
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\mainMenuMusic.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor1.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor2.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\Meteor3.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\ship.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\Content\spaceBackground.xnb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\AllInOneMono.pdb
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csprojAssemblyReference.cache
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CoreCompileInputs.cache
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\FinalProjectShell.csproj.CopyComplete
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.exe
+C:\Users\Talon Ernst\Desktop\Game Final Assignment - Backup of Backup\FinalProject\FinalProjectTemplate\FinalProjectShell\obj\x86\Debug\AllInOneMono.pdb
